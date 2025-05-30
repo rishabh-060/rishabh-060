@@ -72,8 +72,6 @@
 ---
 
 
----
-
 ## 🔗 Let's Connect!
 
 - 🌐 Portfolio: [rishabh-060](https://rishabh-060.netlify.app/)
