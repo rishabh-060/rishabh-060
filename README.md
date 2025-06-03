@@ -40,6 +40,7 @@
 ## 🌟 Project Highlights
 
 ### 🚀 ScanMyMeal – Real-time Food Ordering Web App
+##### 🔗 [visit at scanmymeal](https://scanmymeal.netlify.app/)
 
 **ScanMyMeal** is a full-stack web application designed for real-time food ordering, built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It streamlines the user experience while providing admins with dynamic control over their restaurant’s data.
 
