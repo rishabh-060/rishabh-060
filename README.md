@@ -77,7 +77,7 @@
 
 - 🌐 Portfolio: [rishabh-060](https://rishabh-060.netlify.app/)
 - 📧 Email: *verma.rishabh924@gmail.com*
-- 💼 LinkedIn: [@rishabh_verma](www.linkedin.com/in/rishabh-verma-277530223)
+- 💼 LinkedIn: [rishabh_verma](https://www.linkedin.com/in/rishabh-verma-277530223)
 
 ---
 
