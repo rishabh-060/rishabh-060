@@ -22,6 +22,8 @@
 - [ScanMyMeal](https://scanmymeal.netlify.app/)
 - [Blo-docs](https://blo-docs.netlify.app/)
 
+---
+
 ## 🛠️ Technologies & Tools
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
