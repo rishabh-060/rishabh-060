@@ -2,6 +2,10 @@
 
 🚀 I'm a **Full-Stack Developer** with expertise in **React**, **Node.js**, and modern web technologies. I have a strong foundation in **Computer Science** and hands-on experience building **responsive** and **scalable web applications**. My goal is to create solutions that are not only functional but also deliver **exceptional user experiences**.
 
+👨‍💻 **Work Experience**
+- 👨‍💻 Software Developer Intern @Trayistats AI Solutions, Noida
+  - July 2025 - Sept. 2025
+
 🎓 **Education:**
 - 🎓 Master of Computer Applications (**MCA**, 2025) – *Shri Ramswaroop Memorial University, Barabanki*
 - 🎓 Bachelor of Science in Computer Applications (**B.Sc**, 2023) – *Brahmanand PG College, Kanpur*
