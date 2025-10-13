@@ -3,9 +3,9 @@
 🚀 I'm a **Full-Stack Developer** with expertise in **React**, **Node.js**, and modern web technologies. I have a strong foundation in **Computer Science** and hands-on experience building **responsive** and **scalable web applications**. My goal is to create solutions that are not only functional but also deliver **exceptional user experiences**.
 
 👨‍💻 **Work Experience**
-- 👨‍💻 Software Developer @Trayistats AI Solutions, Noida
+- 👨‍💻 Software Developer @Trayistats AI Technology, Noida
   - Oct. 2025 - Present
-- 👨‍💻 Software Developer Intern @Trayistats AI Solutions, Noida
+- 👨‍💻 Software Developer Intern @Trayistats AI Technology, Noida
   - July 2025 - Sept. 2025
 
 🎓 **Education:**
