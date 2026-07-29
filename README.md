@@ -1,96 +1,160 @@
-# Hey there, I'm Rishabh Verma! 👋
+# Hi there, I'm Rishabh Verma 👋
 
-🚀 I'm a **Full-Stack Developer** with expertise in **React**, **Node.js**, and modern web technologies. I have a strong foundation in **Computer Science** and hands-on experience building **responsive** and **scalable web applications**. My goal is to create solutions that are not only functional but also deliver **exceptional user experiences**.
+## 🚀 About Me
 
-👨‍💻 **Work Experience**
-- 👨‍💻 Software Developer @Trayistats AI Technology, Noida
-  - Oct. 2025 - Present
-- 👨‍💻 Software Developer Intern @Trayistats AI Technology, Noida
-  - July 2025 - Sept. 2025
+I'm a passionate **Full Stack Developer** from India who enjoys building scalable web applications, learning new technologies, and solving real-world problems through software.
 
-🎓 **Education:**
-- 🎓 Master of Computer Applications (**MCA**, 2025) – *Shri Ramswaroop Memorial University, Barabanki*
-- 🎓 Bachelor of Science in Computer Applications (**B.Sc**, 2023) – *Brahmanand PG College, Kanpur*
+I primarily work with the **MERN Stack**, while continuously exploring backend development, cloud technologies, system design, and DevOps.
+
+> 💡 This GitHub profile is my **personal workspace**, where I explore new technologies, build side projects, experiment with ideas, and document my learning journey.
 
 ---
 
-## 💻 What I Do
+## 💼 Professional Experience
 
-- 🌐 Build **responsive**, **user-focused** web applications.
-- 🧩 Design **scalable** and **maintainable** backend architectures.
-- 🧠 Solve complex problems with **innovative solutions**.
-- 🧹 Follow **clean code principles** and **industry best practices**.
-- 🚀 Always exploring and learning new technologies.
+### Software Developer
+**Trayistats AI Technology Pvt. Ltd., Noida**
+- Oct 2025 – Present
 
----
+- Developing and maintaining enterprise web applications
+- Building REST APIs using Node.js & Express.js
+- Working with React.js, MSSQL, MongoDB
+- Production debugging and root cause analysis
+- SQL query optimization and business workflow implementation
 
-## 🛠️ Technologies & Tools
+### Software Developer Intern
+**Trayistats AI Technology Pvt. Ltd.**
+- Jul 2025 – Sep 2025
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Nodemailer](https://img.shields.io/badge/-Nodemailer-009688?logo=gmail&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+- Developed React.js modules
+- Built REST APIs
+- Fixed production bugs
+- Improved SQL query performance
 
 ---
 
-## Work samples || Projects
-- [ScanMyMeal](https://scanmymeal.netlify.app/)
-- [Blo-docs](https://blo-docs.netlify.app/)
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**
+Shri Ramswaroop Memorial University
+2023 – 2025
+
+**Bachelor of Science (Computer Applications)**
+Brahmanand PG College
+2020 – 2023
 
 ---
 
-## 🌟 Project Highlights
+# 🛠 Tech Stack
 
-### 🚀 ScanMyMeal – Real-time Food Ordering Web App
-##### 🔗 [visit at scanmymeal](https://scanmymeal.netlify.app/)
+### Languages
 
-**ScanMyMeal** is a full-stack web application designed for real-time food ordering, built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It streamlines the user experience while providing admins with dynamic control over their restaurant’s data.
-
-#### 🧩 Core Features:
-
-- ✅ **User Authentication** (Signup, Login, Forgot Password)
-- ✅ **Admin Panel** for managing Categories, Subcategories, Products, Orders, and Users
-- ✅ **Product Management** (CRUD with Cloudinary image uploads)
-- ✅ **Cart & Checkout** with COD and Stripe payment options
-- ✅ **Order Tracking** for past and upcoming orders
-- ✅ **Profile Management** (edit profile, change avatar)
-- ✅ **Search & Browse** products by Category/Subcategory
-- ✅ **Responsive & Modern UI** with smooth animations and intuitive icons
-
-#### 🚀 Advanced Functionalities:
-
-- Dynamic Content Management via Admin Panel
-- Cloudinary Integration for optimized image handling
-- Nodemailer for email notifications
-- Secure authentication with JWT and refresh tokens
-- User-friendly forms, toast notifications, and interactivity
-
-#### 🔗 Tech Stack:
-
-- **Frontend:** React.js, Tailwind CSS, Vite, Axios, Lucide-React, React-Toastify, SweetAlert2
-- **Backend:** Node.js, Express.js, MongoDB, Cloudinary, Nodemailer, Stripe
-- **Authentication:** JWT, Bcrypt.js, Refresh Tokens
-- **Other Tools:** Postman, Git, GitHub
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ---
 
+### Frontend
 
-## 🔗 Let's Connect!
-
-- 🌐 Portfolio: [rishabh-060](https://rishabh-060.netlify.app/)
-- 📧 Email: *verma.rishabh924@gmail.com*
-- 💼 LinkedIn: [rishabh_verma](https://www.linkedin.com/in/rishabh-verma-277530223)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-Thanks for stopping by! 🚀 Let's collaborate and build something awesome together! 😎
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+---
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+---
+
+# 🌟 Featured Projects
+
+## 🍽 Scan My Meal
+
+A production-ready MERN Stack food ordering platform with separate User and Admin portals.
+
+### Key Features
+
+- JWT Authentication
+- Role-based Authorization
+- Stripe Payment Integration
+- Cloudinary Image Upload
+- Email Verification & Password Recovery
+- Admin Dashboard
+- Product & Order Management
+- Responsive UI
+- Redux Toolkit State Management
+
+### Tech Stack
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+- Redux Toolkit
+- Stripe
+- Cloudinary
+- Nodemailer
+
+🔗 Live Demo:
+https://scanmymeal.netlify.app/
+
+---
+
+## 📚 Other Projects
+
+- 📖 Blo-Docs
+- 🌐 Personal Portfolio
+
+---
+
+# 🌱 Currently Learning
+
+- AWS
+- Docker
+- GitHub Actions
+- Redis
+- RabbitMQ
+- System Design
+
+---
+
+# 📫 Connect With Me
+
+🌐 Portfolio
+https://rishabh-060.netlify.app/
+
+💼 LinkedIn
+https://www.linkedin.com/in/rishabh-verma-277530223
+
+📧 Email
+verma.rishabh924@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
+Feel free to explore my repositories and connect if you'd like to collaborate on interesting projects.
