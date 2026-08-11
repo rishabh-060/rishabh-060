@@ -161,6 +161,8 @@ https://scanmymeal.netlify.app/
 - 🍽️ [Scan My Meal](https://scanmymeal.netlify.app/)
 - 📄 [Blo-Docs](http://blo-docs.netlify.app/)
 - 💼 [Personal Portfolio](https://rishabh-060.netlify.app/)
+- 🍽️ [Receipe Center](http://13.234.31.130/)
+- 💼 [Innoware portfolio](http://ec2-3-111-40-26.ap-south-1.compute.amazonaws.com/)
 
 ---
 
